@@ -1,0 +1,10 @@
+{
+    "go.toolsEnvVars": {
+        "CGO_ENABLED": "1",
+        "CC": "C:\\msys64\\mingw64\\bin\\gcc.exe"
+    },
+    "go.buildEnvVars": {
+        "CGO_ENABLED": "1",
+        "CC": "C:\\msys64\\mingw64\\bin\\gcc.exe"
+    }
+}
